@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html class="animated fadeIn">
+<head>
+<script src="js/jquery.js"></script>
+<link rel="stylesheet" type="text/css" href="css/animate.css">
+<script src="js/session.js"></script>
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="css/flipcard.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <img src="console_txt.png" >
+        </nav>
+    </header>
+<div class="main">
+<section class="container">
+  <div class="card" >
+    <div class="front">
+    	<img src="image/user_login.png" id="user_login">
+    	<p>Login</p>
+    	<form action="php/login.php" method="post"  >
+    		<div class="textfield"><a><i class="fa fa-user" aira-hidden="true"></i>
+    			<input type="email" name="loginemail" placeholder="Email-Id" required id="textcolor"></a>
+    			<br>
+    			<input type="submit" name="" value="Login">
+    		</div>
+    	</form>
+    	<button id="new_user">New User? Register for free</button>
+    </div>
+    <div class="back">
+     <img src="image/user_register.png" id="user_login">
+    	<p>Register</p>
+    	<form  id="registerForm" action="php/register.php" method="POST">
+    		<div class="textfield"><a><i class="fa fa-user" aira-hidden="true"></i>
+    			<input type="email" name="registeremail" placeholder="Email-Id" required id="textcolor"></a>
+    			<br>
+    			<input type="submit" name="" value="Register" style="background: #ff6600">
+    		</div>
+    	</form>
+    	<button id="direct2login">Already Register?  Login</button>
+
+    </div>
+  </div>
+</section>
+</div>
+<footer>
+        <div id="footer_div">
+            <span></span>
+            <div id="footer_content">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Console Development <span id="footer_left">Powered by Console</div> </div>
+    </footer>
+
+</body>
+</html>

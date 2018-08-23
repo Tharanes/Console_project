@@ -1,0 +1,1838 @@
+2015-11-10 15:26:56 10fc InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2015-11-10 15:26:56 4348 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2015-11-10 15:26:56 4348 [Note] InnoDB: The InnoDB memory heap is disabled
+2015-11-10 15:26:56 4348 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2015-11-10 15:26:56 4348 [Note] InnoDB: Memory barrier is not used
+2015-11-10 15:26:56 4348 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2015-11-10 15:26:56 4348 [Note] InnoDB: Not using CPU crc32 instructions
+2015-11-10 15:26:56 4348 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2015-11-10 15:26:56 4348 [Note] InnoDB: Completed initialization of buffer pool
+2015-11-10 15:26:56 4348 [Note] InnoDB: Highest supported file format is Barracuda.
+2015-11-10 15:26:57 4348 [Note] InnoDB: 128 rollback segment(s) are active.
+2015-11-10 15:26:57 4348 [Note] InnoDB: Waiting for purge to start
+2015-11-10 15:26:57 4348 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.26-74.0 started; log sequence number 1835027
+2015-11-10 15:26:57 6140 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2015-11-10 15:26:57 4348 [Note] Plugin 'FEEDBACK' is disabled.
+2015-11-10 15:26:57 4348 [Note] Server socket created on IP: '::'.
+2015-11-10 15:26:57 4348 [Note] Event Scheduler: Loaded 0 events
+2015-11-10 15:26:57 4348 [Note] C:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.8-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2015-11-10 15:27:11 5152 [Note] C:\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+2015-11-10 15:27:11 5152 [Note] Event Scheduler: Purging the queue. 0 events
+2015-11-10 15:27:11 5732 [Note] InnoDB: FTS optimize thread exiting.
+2015-11-10 15:27:11 5152 [Note] InnoDB: Starting shutdown...
+2015-11-10 15:27:13 5152 [Note] InnoDB: Shutdown completed; log sequence number 1835037
+2015-11-10 15:27:13 5152 [Note] C:\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+2018-08-17 17:26:35 2658 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-17 17:26:35 9816 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-17 17:26:35 9816 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-17 17:26:35 9816 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-17 17:26:35 9816 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-17 17:26:35 9816 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-17 17:26:35 9816 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-17 17:26:35 9816 [Note] InnoDB: Using generic crc32 instructions
+2018-08-17 17:26:35 9816 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-17 17:26:35 9816 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-17 17:26:35 9816 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-17 17:26:36 9816 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-17 17:26:36 9816 [Note] InnoDB: Waiting for purge to start
+2018-08-17 17:26:36 9816 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1835037
+2018-08-17 17:26:37 8196 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-17 17:26:37 9816 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-17 17:26:37 9816 [Note] Server socket created on IP: '::'.
+2018-08-17 17:26:38 9816 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2201081-80-8-0198 -2129: 1212::2141 :92a40 1 aI8n nIonnDoBD:B :W aWranrinnign:g :U sUisnign ign niondnbo_dabd_daidtdiiotniaoln_amle_mm_epmo_opolo_ls_isziez ei si sD EDPERPERCAETCEADT.E DT.h iTsh iosp toipotni omna ym abye  bree mroevmeodv eidn  ifnu tfuurteu rree lreealseeass,e st,o gteotgheethre rw iwtiht ht hteh eo potpitoino ni ninnondobd_bu_sues_es_yssy_sm_amlallolco ca nadn dw iwtiht ht hteh eI nInnonDoBD'Bs' si nitnetrenranla lm emmeomroyr ya lallolcoactaotro.r
+.
+2021081-80-80-81-91 92 22:21:11:12:42 42 446244  [[NNoottee]]  IInnnnooDDBB::  iinnnnooddbb__eemmppttyy__ffrreeee__lliisstt__aallggoorriitthhmm  hhaass  bbeeen changeend cha ntgoe dl egacy because of small buffer ptoool  lseigzaec.y  Ibne coarudseer  otfo  sumsael lb abcukfoffefr,  pionoclr esaiszee .b uIfnf eorr dper otool  uaste  lbeaacskto fufp,  tion c2r0eMaBs.e
+ 
+buffer pool at least up to 20MB.
+
+22001188--0088--1199  2222::1111::2244  422446 4[ N[oNtoet]e ]I nInnonDoBD:B :U sUisnign gm umtuetxeexses  ttoo  rreeff  ccoouunntt  bbuuffffeerr  ppooooll  ppaaggeess
+
+2018-20081-819- 0282-:1191 :2224: 1412:42 4[ N2o4t6e4]  [INnontoeD]B : ITnhneo DIBn:n oTDhBe  mIenmnoorDyB  hmeemaopr yi sh edaips aibsl eddi
+sabled
+2018-08-19 22:11:2240 14824- [0N8ot-e1]9  I2n2n:o1D1B::2 4M u2t4e6x4e s[ Naontde ]r wI_nlnoocDkBs:  uMsuet eWxiensd oawnsd  irnwt_elrolcokcsk euds ef uWnicntdioownss 
+interlocked functions
+2018-08-19 22:11:2240 14824- [0N8o-t1e9]  2I2n:n1oDB1:: 2_4m m2_4l6f4e n[cNeo(t)e ]an d I_nmnmo_DsBf:e n_cmem(_)l faernec eu(s)e da nfdo r_ mmme_msofreyn cbea(r) rairee ru
+sed for memory barrier
+2018-08-19 22:11:22041 84-2048 -[1N9o t2e2]: 1I1n:n2o4D B2:4 6C4o [mNportees]s eIdn ntoaDbBl:e sC oumsper ezslsiebd  1t.a2b.l3e
+s use zlib 1.2.3
+2201081-80-8-0189- 1292 :2121::241 14:2244  [2N4o6t4e ][ NIontneoD]B :I nUnsoiDnBg:  gUesnienrgi cg ecnrecr32i ci ncsrtcr3u2c tiinosntsr
+uctions
+2018-08-19 22:11:24 424 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-19 22:11:24 2464 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-19 22:11:24 424 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-19 22:11:24 2464 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-19 22:11:24 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:11:24 424 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-19 22:11:24 424 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1839006 in the ib_logfiles!
+2018-08-19 22:11:25 424 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-19 22:11:25 424 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-19 22:11:25 424 [Note] InnoDB: Waiting for purge to start
+2018-08-19 22:11:25 424 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1839006
+2018-08-19 22:11:26 5296 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-19 22:11:26 424 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-19 22:11:26 424 [Note] Server socket created on IP: '::'.
+2018-08-19 22:11:27 424 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-19 22:11:34 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:11:44 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:11:54 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:12:04 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:12:14 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:12:24 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:12:34 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:12:44 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:12:54 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:13:04 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:13:14 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:13:24 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:13:34 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:13:44 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:13:54 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:14:04 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:14:14 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:14:24 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:14:34 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:14:44 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:14:54 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:15:04 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:15:14 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:15:24 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:15:34 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:15:44 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:15:54 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:16:04 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:16:14 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:16:24 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:16:34 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:16:44 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:16:54 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:17:04 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:17:14 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:17:24 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:17:34 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:17:44 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:17:54 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:18:04 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:18:14 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:18:24 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:18:34 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:18:44 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:18:54 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:19:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:19:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:19:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:19:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:19:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:19:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:20:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:20:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:20:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:20:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:20:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:20:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:21:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:21:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:21:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:21:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:21:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:21:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:22:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:22:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:22:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:22:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:22:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:22:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:23:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:23:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:23:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:23:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:23:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:23:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:24:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:24:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:24:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:24:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:24:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:24:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:25:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:25:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:25:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:25:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:25:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:25:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:26:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:26:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:26:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:26:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:26:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:26:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:27:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:27:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:27:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:27:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:27:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:27:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:28:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:28:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:28:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:28:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:28:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:28:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:29:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:29:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:29:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:29:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:29:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:29:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:30:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:30:15 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:30:25 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:30:35 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:30:45 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:30:55 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:31:05 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:31:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:31:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:31:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:31:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:31:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:32:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:32:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:32:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:32:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:32:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:32:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:33:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:33:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:33:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:33:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:33:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:33:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:34:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:34:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:34:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:34:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:34:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:34:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:35:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:35:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:35:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:35:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:35:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:35:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:36:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:36:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:36:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:36:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:36:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:36:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:37:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:37:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:37:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:37:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:37:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:37:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:38:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:38:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:38:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:38:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:38:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:38:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:39:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:39:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:39:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:39:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:39:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:39:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:40:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:40:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:40:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:40:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:40:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:40:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:41:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:41:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:41:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:41:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:41:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:41:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:42:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:42:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:42:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:42:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:42:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:42:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:43:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:43:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:43:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:43:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:43:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:43:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:44:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:44:16 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:44:26 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:44:36 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:44:46 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:44:56 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:45:06 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:45:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:45:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:45:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:45:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:45:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:46:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:46:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:46:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:46:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:46:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:46:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:47:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:47:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:47:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:47:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:47:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:47:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:48:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:48:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:48:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:48:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:48:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:48:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:49:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:49:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:49:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:49:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:49:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:49:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:50:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:50:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:50:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:50:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:50:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:50:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:51:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:51:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:51:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:51:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:51:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:51:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:52:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:52:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:52:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:52:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:52:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:52:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:53:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:53:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:53:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:53:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:53:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:53:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:54:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:54:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:54:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:54:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:54:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:54:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:55:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:55:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:55:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:55:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:55:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:55:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:56:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:56:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:56:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:56:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:56:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:56:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:57:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:57:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:57:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:57:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:57:47 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:57:57 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:58:07 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:58:17 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:58:27 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:58:37 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:58:48 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:58:58 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:59:08 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:59:18 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:59:28 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:59:38 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:59:48 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 22:59:58 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:00:08 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:00:18 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:00:28 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:00:38 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:00:48 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:00:58 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:01:08 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:01:18 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:01:28 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:01:38 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:01:48 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:01:58 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:02:08 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:02:18 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:02:28 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:02:38 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:02:48 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:02:58 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:03:08 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:03:18 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:03:28 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:03:38 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:03:48 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:03:58 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:04:08 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:04:18 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:04:28 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:04:38 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:04:48 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:04:58 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:05:08 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:05:18 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:05:28 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:05:38 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:05:48 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:05:58 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:06:08 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:06:18 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:06:28 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:06:38 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:06:48 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:06:58 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:07:08 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:07:18 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:07:28 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:07:38 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:07:48 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:07:58 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:08:08 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:08:18 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:08:28 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:08:38 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:08:48 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-19 23:08:58 9a0  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+2018-08-20 18:43:44 187c InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-20 18:43:44 6268 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-20 18:43:44 6268 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-20 18:43:44 6268 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-20 18:43:44 6268 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-20 18:43:44 6268 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-20 18:43:44 6268 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-20 18:43:44 6268 [Note] InnoDB: Using generic crc32 instructions
+2018-08-20 18:43:44 6268 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-20 18:43:44 6268 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-20 18:43:44 6268 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-20 18:43:44 6268 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1840969 in the ib_logfiles!
+2018-08-20 18:43:44 6268 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-20 18:43:45 6268 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-20 18:43:45 6268 [Note] InnoDB: Waiting for purge to start
+2018-08-20 18:43:45 6268 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1840969
+2018-08-20 18:43:45 8044 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-20 18:43:45 6268 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-20 18:43:45 6268 [Note] Server socket created on IP: '::'.
+2018-08-20 18:43:46 6268 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-20 21:38:27 788 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-20 21:38:27 1928 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-20 21:38:27 1928 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-20 21:38:27 1928 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-20 21:38:27 1928 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-20 21:38:27 1928 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-20 21:38:27 1928 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-20 21:38:27 1928 [Note] InnoDB: Using generic crc32 instructions
+2018-08-20 21:38:27 1928 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-20 21:38:27 1928 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-20 21:38:28 1928 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-20 21:38:28 1928 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1850441 in the ib_logfiles!
+2018-08-20 21:38:28 1928 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-20 21:38:29 1928 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-20 21:38:29 1928 [Note] InnoDB: Waiting for purge to start
+2018-08-20 21:38:29 1928 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1850441
+2018-08-20 21:38:29 6988 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-20 21:38:30 1928 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-20 21:38:30 1928 [Note] Server socket created on IP: '::'.
+2018-08-20 21:38:30 1928 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-21 18:07:56 edc InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-21 18:07:56 3804 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-21 18:07:56 3804 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-21 18:07:56 3804 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-21 18:07:56 3804 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-21 18:07:56 3804 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-21 18:07:56 3804 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-21 18:07:56 3804 [Note] InnoDB: Using generic crc32 instructions
+2018-08-21 18:07:56 3804 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-21 18:07:56 3804 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-21 18:07:57 3804 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-21 18:07:57 3804 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1850587 in the ib_logfiles!
+2018-08-21 18:07:57 3804 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-21 18:07:59 3804 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-21 18:07:59 3804 [Note] InnoDB: Waiting for purge to start
+2018-08-21 18:07:59 3804 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1850587
+2018-08-21 18:07:59 1108 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-21 18:07:59 3804 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-21 18:07:59 3804 [Note] Server socket created on IP: '::'.
+2018-08-21 18:07:59 3804 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-21 18:21:09 bc0 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-21 18:21:09 3008 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-21 18:21:09 3008 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-21 18:21:09 3008 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-21 18:21:09 3008 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-21 18:21:09 3008 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-21 18:21:09 3008 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-21 18:21:09 3008 [Note] InnoDB: Using generic crc32 instructions
+2018-08-21 18:21:09 3008 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-21 18:21:09 3008 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-21 18:21:09 3008 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-21 18:21:09 3008 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1854682 in the ib_logfiles!
+2018-08-21 18:21:09 3008 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-21 18:21:10 3008 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-21 18:21:10 3008 [Note] InnoDB: Waiting for purge to start
+2018-08-21 18:21:10 3008 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1854682
+2018-08-21 18:21:10 4172 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-21 18:21:10 3008 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-21 18:21:10 3008 [Note] Server socket created on IP: '::'.
+2018-08-21 18:21:11 3008 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-21 18:26:09 24a8 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-21 18:26:09 9384 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-21 18:26:09 9384 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-21 18:26:09 9384 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-21 18:26:09 9384 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-21 18:26:09 9384 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-21 18:26:09 9384 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-21 18:26:09 9384 [Note] InnoDB: Using generic crc32 instructions
+2018-08-21 18:26:09 9384 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-21 18:26:09 9384 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-21 18:26:09 9384 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-21 18:26:09 9384 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1854692 in the ib_logfiles!
+2018-08-21 18:26:09 9384 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-21 18:26:10 9384 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-21 18:26:10 9384 [Note] InnoDB: Waiting for purge to start
+2018-08-21 18:26:10 9384 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1854692
+2018-08-21 18:26:10 3272 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-21 18:26:10 9384 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-21 18:26:10 9384 [Note] Server socket created on IP: '::'.
+2018-08-21 18:26:10 9384 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-21 19:43:33 1160 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-21 19:43:33 4448 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-21 19:43:33 4448 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-21 19:43:33 4448 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-21 19:43:33 4448 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-21 19:43:33 4448 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-21 19:43:33 4448 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-21 19:43:33 4448 [Note] InnoDB: Using generic crc32 instructions
+2018-08-21 19:43:33 4448 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-21 19:43:33 4448 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-21 19:43:33 4448 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-21 19:43:33 4448 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1854702 in the ib_logfiles!
+2018-08-21 19:43:34 4448 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-21 19:43:35 4448 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-21 19:43:35 4448 [Note] InnoDB: Waiting for purge to start
+2018-08-21 19:43:35 4448 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1854702
+2018-08-21 19:43:35 1104 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-21 19:43:35 4448 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-21 19:43:35 4448 [Note] Server socket created on IP: '::'.
+2018-08-21 19:43:35 4448 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-21 20:05:31 1150 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-21 20:05:31 4432 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-21 20:05:31 4432 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-21 20:05:31 4432 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-21 20:05:31 4432 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-21 20:05:31 4432 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-21 20:05:31 4432 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-21 20:05:31 4432 [Note] InnoDB: Using generic crc32 instructions
+2018-08-21 20:05:31 4432 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-21 20:05:31 4432 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-21 20:05:31 4432 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-21 20:05:31 4432 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1854712 in the ib_logfiles!
+2018-08-21 20:05:31 4432 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-21 20:05:32 4432 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-21 20:05:32 4432 [Note] InnoDB: Waiting for purge to start
+2018-08-21 20:05:32 4432 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1854712
+2018-08-21 20:05:32 3980 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-21 20:05:33 4432 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-21 20:05:33 4432 [Note] Server socket created on IP: '::'.
+2018-08-21 20:05:33 4432 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-21 20:15:55 239c InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-21 20:15:55 9116 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-21 20:15:56 9116 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-21 20:15:56 9116 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-21 20:15:56 9116 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-21 20:15:56 9116 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-21 20:15:56 9116 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-21 20:15:56 9116 [Note] InnoDB: Using generic crc32 instructions
+2018-08-21 20:15:56 9116 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-21 20:15:56 9116 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-21 20:15:56 9116 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-21 20:15:56 9116 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1854722 in the ib_logfiles!
+2018-08-21 20:15:57 9116 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-21 20:15:58 9116 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-21 20:15:58 9116 [Note] InnoDB: Waiting for purge to start
+2018-08-21 20:15:58 9116 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1854722
+2018-08-21 20:15:59 4332 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-21 20:15:59 9116 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-21 20:15:59 9116 [Note] Server socket created on IP: '::'.
+2018-08-21 20:15:59 9116 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-21 23:04:04 1c80 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-21 23:04:04 7296 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-21 23:04:04 7296 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-21 23:04:04 7296 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-21 23:04:04 7296 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-21 23:04:04 7296 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-21 23:04:04 7296 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-21 23:04:04 7296 [Note] InnoDB: Using generic crc32 instructions
+2018-08-21 23:04:04 7296 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-21 23:04:04 7296 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-21 23:04:05 7296 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-21 23:04:05 7296 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1856829 in the ib_logfiles!
+2018-08-21 23:04:07 7296 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-21 23:04:11 7296 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-21 23:04:11 7296 [Note] InnoDB: Waiting for purge to start
+2018-08-21 23:04:11 7296 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1856829
+2018-08-21 23:04:11 6328 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-21 23:04:11 7296 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-21 23:04:11 7296 [Note] Server socket created on IP: '::'.
+2018-08-21 23:04:12 7296 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-22 02:56:21 1b98 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-22  2:56:21 7064 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-22  2:56:21 7064 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-22  2:56:21 7064 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-22  2:56:21 7064 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-22  2:56:21 7064 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-22  2:56:21 7064 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-22  2:56:21 7064 [Note] InnoDB: Using generic crc32 instructions
+2018-08-22  2:56:21 7064 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-22  2:56:21 7064 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-22  2:56:21 7064 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-22  2:56:21 7064 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1900352 in the ib_logfiles!
+2018-08-22  2:56:21 7064 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-22  2:56:23 7064 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-22  2:56:23 7064 [Note] InnoDB: Waiting for purge to start
+2018-08-22  2:56:23 7064 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1900352
+2018-08-22  2:56:23 11300 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-22  2:56:23 7064 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-22  2:56:23 7064 [Note] Server socket created on IP: '::'.
+2018-08-22  2:56:23 7064 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-22 08:13:30 26c0 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-22  8:13:30 9920 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-22  8:13:30 9920 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-22  8:13:30 9920 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-22  8:13:30 9920 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-22  8:13:30 9920 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-22  8:13:30 9920 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-22  8:13:30 9920 [Note] InnoDB: Using generic crc32 instructions
+2018-08-22  8:13:30 9920 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-22  8:13:30 9920 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-22  8:13:30 9920 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-22  8:13:30 9920 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1949630 in the ib_logfiles!
+2018-08-22  8:13:31 9920 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-22  8:13:33 9920 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-22  8:13:33 9920 [Note] InnoDB: Waiting for purge to start
+2018-08-22  8:13:33 9920 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1949630
+2018-08-22  8:13:33 6272 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-22  8:13:33 9920 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-22  8:13:33 9920 [Note] Server socket created on IP: '::'.
+2018-08-22  8:13:34 9920 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-22 16:15:36 7b0 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-22 16:15:36 1968 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-22 16:15:36 1968 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-22 16:15:36 1968 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-22 16:15:36 1968 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-22 16:15:36 1968 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-22 16:15:36 1968 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-22 16:15:36 1968 [Note] InnoDB: Using generic crc32 instructions
+2018-08-22 16:15:36 1968 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-22 16:15:36 1968 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-22 16:15:36 1968 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-22 16:15:36 1968 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1970559 in the ib_logfiles!
+2018-08-22 16:15:37 1968 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-22 16:15:39 1968 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-22 16:15:39 1968 [Note] InnoDB: Waiting for purge to start
+2018-08-22 16:15:39 1968 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1970559
+2018-08-22 16:15:39 8568 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-22 16:15:39 1968 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-22 16:15:39 1968 [Note] Server socket created on IP: '::'.
+2018-08-22 16:15:39 1968 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-22 16:36:25 2e98 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-22 16:36:25 11928 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-22 16:36:25 11928 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-22 16:36:25 11928 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-22 16:36:25 11928 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-22 16:36:25 11928 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-22 16:36:25 11928 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-22 16:36:25 11928 [Note] InnoDB: Using generic crc32 instructions
+2018-08-22 16:36:25 11928 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-22 16:36:25 11928 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-22 16:36:25 11928 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-22 16:36:25 11928 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1970569 in the ib_logfiles!
+2018-08-22 16:36:26 11928 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-22 16:36:28 11928 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-22 16:36:28 11928 [Note] InnoDB: Waiting for purge to start
+2018-08-22 16:36:28 11928 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1970569
+2018-08-22 16:36:28 1420 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-22 16:36:28 11928 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-22 16:36:28 11928 [Note] Server socket created on IP: '::'.
+2018-08-22 16:36:28 11928 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-22 16:46:42 2f6c InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-22 16:46:42 12140 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-22 16:46:42 12140 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-22 16:46:42 12140 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-22 16:46:42 12140 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-22 16:46:42 12140 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-22 16:46:42 12140 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-22 16:46:42 12140 [Note] InnoDB: Using generic crc32 instructions
+2018-08-22 16:46:42 12140 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-22 16:46:42 12140 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-22 16:46:42 12140 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-22 16:46:42 12140 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1991982 in the ib_logfiles!
+2018-08-22 16:46:42 12140 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-22 16:46:44 12140 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-22 16:46:44 12140 [Note] InnoDB: Waiting for purge to start
+2018-08-22 16:46:44 12140 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1991982
+2018-08-22 16:46:44 10836 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-22 16:46:45 12140 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-22 16:46:45 12140 [Note] Server socket created on IP: '::'.
+2018-08-22 16:46:45 12140 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-22 16:59:19 21a8 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-22 16:59:19 8616 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-22 16:59:19 8616 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-22 16:59:19 8616 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-22 16:59:19 8616 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-22 16:59:19 8616 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-22 16:59:19 8616 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-22 16:59:19 8616 [Note] InnoDB: Using generic crc32 instructions
+2018-08-22 16:59:19 8616 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-22 16:59:19 8616 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-22 16:59:19 8616 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-22 16:59:19 8616 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 1992214 in the ib_logfiles!
+2018-08-22 16:59:21 8616 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-22 16:59:24 8616 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-22 16:59:24 8616 [Note] InnoDB: Waiting for purge to start
+2018-08-22 16:59:24 8616 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 1992214
+2018-08-22 16:59:25 8624 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-22 16:59:25 8616 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-22 16:59:25 8616 [Note] Server socket created on IP: '::'.
+2018-08-22 16:59:26 8616 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-22 21:58:27 2af0 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-22 21:58:27 10992 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-22 21:58:27 10992 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-22 21:58:27 10992 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-22 21:58:27 10992 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-22 21:58:27 10992 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-22 21:58:27 10992 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-22 21:58:27 10992 [Note] InnoDB: Using generic crc32 instructions
+2018-08-22 21:58:27 10992 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-22 21:58:27 10992 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-22 21:58:27 10992 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-22 21:58:27 10992 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2031763 in the ib_logfiles!
+2018-08-22 21:58:28 10992 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-22 21:58:29 10992 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-22 21:58:29 10992 [Note] InnoDB: Waiting for purge to start
+2018-08-22 21:58:29 10992 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 2031763
+2018-08-22 21:58:30 6100 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-22 21:58:30 10992 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-22 21:58:30 10992 [Note] Server socket created on IP: '::'.
+2018-08-22 21:58:30 10992 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2018-08-23 16:16:26 8a4 InnoDB: Warning: Using innodb_additional_mem_pool_size is DEPRECATED. This option may be removed in future releases, together with the option innodb_use_sys_malloc and with the InnoDB's internal memory allocator.
+2018-08-23 16:16:26 2212 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2018-08-23 16:16:26 2212 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2018-08-23 16:16:26 2212 [Note] InnoDB: The InnoDB memory heap is disabled
+2018-08-23 16:16:26 2212 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2018-08-23 16:16:26 2212 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2018-08-23 16:16:26 2212 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2018-08-23 16:16:26 2212 [Note] InnoDB: Using generic crc32 instructions
+2018-08-23 16:16:26 2212 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2018-08-23 16:16:26 2212 [Note] InnoDB: Completed initialization of buffer pool
+2018-08-23 16:16:27 2212 [Note] InnoDB: Highest supported file format is Barracuda.
+2018-08-23 16:16:27 2212 [Note] InnoDB: The log sequence number 1835037 in ibdata file do not match the log sequence number 2042861 in the ib_logfiles!
+2018-08-23 16:16:27 2212 [Note] InnoDB: Restoring possible half-written data pages from the doublewrite buffer...
+2018-08-23 16:16:29 2212 [Note] InnoDB: 128 rollback segment(s) are active.
+2018-08-23 16:16:29 2212 [Note] InnoDB: Waiting for purge to start
+2018-08-23 16:16:29 2212 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.39-83.1 started; log sequence number 2042861
+2018-08-23 16:16:29 5112 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2018-08-23 16:16:29 2212 [Note] Plugin 'FEEDBACK' is disabled.
+2018-08-23 16:16:30 2212 [Note] Server socket created on IP: '::'.
+2018-08-23 16:16:30 2212 [Note] c:\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '10.1.34-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution

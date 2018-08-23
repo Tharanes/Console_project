@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html class="animated fadeIn">
+<head>
+	<title></title>
+		<link rel="stylesheet" type="text/css" href="css/in.css">
+		<link rel="stylesheet" type="text/css" href="css/animate.css">
+</head>
+<body>
+<div id="container">
+	<header>
+		<nav>
+			<form action="sample.ajax"><input type="submit" value=LOGIN></form>
+		</nav>
+
+	</header>
+	<article>
+		<div id="content_change">
+		<img src="console_txt.png" id="img_console">
+		<br>
+		<img src="java_web.png" id="img_java">
+	    </div>
+	</article>
+	<footer>
+		<div id="footer_div">
+			<span></span>
+			<div id="footer_content">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Console Development <span id="footer_left">Powered by Console</div> </div>
+	</footer>
+</div>
+</body>
+</html>

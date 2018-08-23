@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/profile.css">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="js/jquery.js"></script>
+		<script src="js/session.js"></script>
+</head>
+<body onload="jqueryfun()">
+	 <header>
+        <nav>
+            <img src="console_txt.png" ><i id="showEmail"></i><form action="sample.ajax"><input type="submit" value=LOGOUT></form>
+        </nav>
+    </header>
+   <div class="main">
+<section class="container">
+  <div class="card" >
+    <div class="front">
+
+        <p> <strong>Profile</strong></p>
+            <table id=profiletable>
+							<div id=del>Please update your Profile by Clicking Edit Profile</div>
+                <tr><td><p id="alter_table">Name</p></td><td></td></tr>
+                <tr><td><p id="alter_table">Age</p></td><td></td></tr>
+                <tr><td><p id="alter_table">E-mail</p></td><td></td></tr>
+                <tr><td><p id="alter_table">Phone</p></td><td></td></tr>
+                <tr><td><p id="alter_table">City</p></td><td></td></tr>
+                <tr><td><p id="alter_table">Department</p></td><td></td></tr>
+                <tr><td><p id="alter_table">Nationality</td><td></td></tr></p>
+								<tr><td><p id="alter_table">Gender</td><td></td></tr></p>
+            </table>
+						<br>
+        <button id="new_user">Edit Profile</button>
+    </div>
+    <div class="back">
+			<strong>Edit</strong></p>
+        <form action="php/update.php" method="post">
+            <table id=updatetable>
+                <tr><td><p id="alter_table1">Name</p></td><td><input type="text" name="updatename" value="" ></td></tr>
+                <tr><td><p id="alter_table1">Age</p></td><td><input type="number" name="updateage" value=""></td></tr>
+                <!-- <tr><td><p id="alter_table1">E-mail</p></td><td><input type="email" name="updateemail" value=""></td></tr> -->
+                <tr><td><p id="alter_table1">Phone</p></td><td><input type="tel" name="updatephone" value=""></td></tr>
+                <tr><td><p id="alter_table1">City</p></td><td><input type="text" name="updatecity" value=""></td></tr>
+                <tr><td><p id="alter_table1">Department</p></td><td><input type="text" name="updatedept" value=""></td></tr>
+                <tr><td><p id="alter_table1">Nationality</td><td><input type="text" name="updatenationality" value=""></td></tr></p>
+								<tr><td><p id="alter_table">Gender</td><td><input type="text" name="updategender" value=""></td></td></tr></p>
+            </table>
+						<br>
+						<input type="submit" name="" value="Update">
+        </form>
+				<br>
+				<button id="cancelbtn">Cancel</button>
+    </div>
+  </div>
+</section>
+</div>
+
+    <footer>
+        <div id="footer_div">
+            <span></span>
+            <div id="footer_content">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Console Development <span id="footer_left">Powered by Console</div> </div>
+    </footer>
+
+</body>
+</html>
